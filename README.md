@@ -36,11 +36,25 @@ Make sure you have the following installed on your machine:
    pip install -r requirements.txt
    ```
 
-3. Set up your Gemini API Key in the `.env` file (copy from `.env.example` if it doesn't exist):
+3. Set up your Gemini API Key in the `.env` file. You can create it by copying the template:
+
+   ```bash
+   cp .env.example .env
+   ```
+
+   Then open `.env` and set your API key:
 
    ```env
    GEMINI_API_KEY=your_gemini_api_key_here
    ```
+
+   Create the local
+   .env
+   File: Copy the
+   backend/.env.example
+   template file and rename it to
+   backend/.env
+   :
 
 4. Launch the Uvicorn server:
    ```bash
