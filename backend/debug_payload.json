@@ -1,0 +1,22 @@
+{
+  "personal_info": { "name": "Student" },
+  "academic_history": {
+    "subjects": [],
+    "grades_summary": "",
+    "strengths": [],
+    "weaknesses": [],
+    "favorite_subjects": []
+  },
+  "interests": [],
+  "hobbies": [],
+  "raw_resume_text": "",
+  "raw_dreams_text": "",
+  "user_stated_values": {
+    "money_importance": 5,
+    "impact_importance": 5,
+    "stability_importance": 5,
+    "creativity_importance": 5,
+    "work_life_balance": 5
+  },
+  "simulations": []
+}
